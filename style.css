@@ -1,0 +1,93 @@
+header {
+  background-color: lightskyblue;
+  padding: 25px;
+  margin: auto;
+  position: absolute;
+  border-radius: 100px;
+}
+#bb h1 {
+    color: black;
+   font-size: 40px;
+    
+}
+
+body {
+      background-color:antiquewhite;
+}
+
+.abc {
+    text-align: right;
+    padding-top: 45px;
+}
+
+.abc button  {
+    
+    padding: 13px;
+    font-family: "permanent marker";
+    border-radius: 35px;
+    font-size: 25px;
+    color: lightskyblue
+}
+
+
+.bcd {
+    display: flex;
+    width:1100px;
+    margin:0 auto;
+}
+.bcd p { 
+ padding-left: 50px;
+    word-spacing: 2px;
+    font-family: "permanent marker";
+    font-size: 20px;
+}
+
+#headshot {
+    text-align:center;
+}
+   
+h1 {
+    text-align: center;
+    font-family: "permanent marker";
+    font-size: 50px;
+    color: lightskyblue;
+}
+.bd {
+    display: flex;
+    width:1100px;
+    margin:0 auto;
+}
+.bd p { 
+ padding-left: 50px;
+    word-spacing: 2px;
+    font-family: "permanent marker";
+    font-size: 20px;
+}
+
+.aa {
+   text-align: center;
+    margin-bottom: 175px;
+}
+
+.aa button {
+    
+    padding: 35px;
+    font-family: "permanent marker";
+    border-radius: 35px;
+    font-size: 35px;
+    color: lightskyblue;
+}
+
+
+#ff{
+    display:flex;
+    padding-top: 50px;
+}
+iframe {
+    padding-left:800px;
+}
+
+
+.ss {
+    
+}
